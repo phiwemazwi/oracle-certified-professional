@@ -1,4 +1,4 @@
-package com.ocp.algorithms;
+package com.ocp.loops;
 
 public class TwoSum {
 //    public int[] twoSum(int[] nums, int target){
